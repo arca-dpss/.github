@@ -1,6 +1,6 @@
 # ARCA DPSS
 
-This is the Github organization for the *A*pplied *R*esearch *C*ourses *A*cademy ([ARCA](Applied Research Courses Academy)) courses at the Department of Developmental Psychology and Socialization, University of Padova.
+This is the Github organization for the **A**pplied **R**esearch **C**ourses **A**cademy ([ARCA](https://www.dpss.unipd.it/applied-research-courses-academy-arca)) courses at the Department of Developmental Psychology and Socialization, University of Padova.
 
 # Courses
 
