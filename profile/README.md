@@ -6,7 +6,7 @@ This is the Github organization for the **A**pplied **R**esearch **C**ourses **A
 
 - [Psychopy3](https://github.com/arca-dpss/course-psychopy3)
 - [Introduction to R](https://github.com/arca-dpss/course-R)
-- [R Markdown](https://github.com/arca-dpss/course-R-Rmarkdown)
+- [R Markdown](https://github.com/arca-dpss/CorsoRmarkdown)
 - [EEGLAB](https://github.com/arca-dpss/course-eeglab)
 - [Open Science](https://github.com/arca-dpss/course-open-science)
 - [R and R Markdown (Professors edition)](https://github.com/arca-dpss/course-R-Rmarkdown)
