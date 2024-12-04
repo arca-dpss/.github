@@ -6,6 +6,7 @@ This is the Github organization for the **A**pplied **R**esearch **C**ourses **A
 
 - [Psychopy3](https://github.com/arca-dpss/course-psychopy3)
 - [Introduction to R](https://github.com/arca-dpss/course-R)
+- [Introduction to R](https://github.com/arca-dpss/course-R-2425) (2024/2025)
 - [R Markdown](https://github.com/arca-dpss/CorsoRmarkdown)
 - [EEGLAB](https://github.com/arca-dpss/course-eeglab)
 - [Elements and application of Pupillometry](https://osf.io/frmy9/?view_only=5637cf6146044daa89e394481e23e1ef)
